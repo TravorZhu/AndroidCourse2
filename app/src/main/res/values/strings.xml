@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidCourse2</string>
+    <string name="bn1">线性布局</string>
+    <string name="bn2">相对布局</string>
+    <string name="bn3">帧布局</string>
+    <string name="bn4">表格布局</string>
+    <string name="bn5">网格布局</string>
+    <string name="bn6">水平布局</string>
+    <string name="bn7">竖直布局</string>
+    <string name="bn8">靠左对齐</string>
+    <string name="bn_back">返回</string>
+    <string name="button12">第一个Button</string>
+    <string name="button13">第二个Button</string>
+    <string name="button14">第三个Button</string>
+    <string name="button15">第四个Button</string>
+    <string name="todo">TODO</string>
+</resources>
